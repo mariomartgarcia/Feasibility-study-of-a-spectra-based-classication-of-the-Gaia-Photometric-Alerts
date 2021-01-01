@@ -1,6 +1,6 @@
-### Feasibility study of a spectra based classication of the Gaia Photometric Alerts
+# Feasibility study of a spectra based classication of the Gaia Photometric Alerts
 
-# Abstract
+### Abstract
 
 The photometric alerts obtained by the Gaia satellite are collected when a change in magnitude between two observations is detected. This alert is recorded to be later studied and classified, in other words, to know what has caused it (variable star, microlensing effects, transits...). The project focuses on the alerts that have been published and classified in order to study the feasibility of automating the process of classifying these alerts.
 
