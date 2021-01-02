@@ -16,4 +16,4 @@ The best model obtained is the Gradient Boosting Classifier which, with a maximu
 
 - "code" folder: It contains the codes used for the development of the work.
 - "csv" folder: It contains part of the datasets used.
-- The rest of the csv files can be found in Zenodo: 
+- The rest of the csv files can be found in Zenodo: https://zenodo.org/record/4411970#.X_Dwx9hKieg
