@@ -1,4 +1,4 @@
-# Feasibility study of a spectra-based classication of the Gaia Photometric Alerts
+# Feasibility study of a spectra-based classification of the Gaia Photometric Alerts
 
 ### Abstract
 
